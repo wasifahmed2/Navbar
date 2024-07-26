@@ -1,0 +1,60 @@
+#nav {
+    height: 80px;
+    width: 100%;
+    display: flex;
+    background-color: #fff;
+}
+
+
+#images {
+    width: 30%;
+}
+
+#images img {
+    height: 80%;
+    width: 80%;
+    margin: 10px 25px;
+}
+
+#lst {
+    color: gray;
+    width: 50%;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+
+}
+
+ul li {
+    margin: 20px;
+}
+
+#btns {
+    /* border: 2px solid brown; */
+    width: 20%;
+    padding-top: 20px;
+
+}
+
+#btn1 {
+    margin-left: 12px;
+    background-color: #0d6efd;
+    text-transform: uppercase;
+    border: none;
+    color: white;
+    height: 40px;
+    border-radius: 100px;
+}
+
+#btn2 {
+    margin-left: 15px;
+    background-color: green;
+    color: white;
+    text-transform: uppercase;
+    height: 40px;
+    border-radius: 100px;
+    border: none;
+}
+
